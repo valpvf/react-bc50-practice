@@ -1,4 +1,8 @@
-[макет](https://www.figma.com/file/nEQmqJ8CiCNgkkBR2w3Xwm/Lesson-(Copy)-(Copy)?type=design&node-id=243-1)
+[Макет](https://www.figma.com/file/nEQmqJ8CiCNgkkBR2w3Xwm/Lesson-(Copy)-(Copy)?type=design&node-id=243-1)
+
+[Tasks](https://github.com/VovaMelnyk/React-tasks)
+
+=============================================================================================================
 
 # React homework template
 
