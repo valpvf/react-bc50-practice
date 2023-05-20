@@ -1,3 +1,5 @@
+[макет](https://www.figma.com/file/nEQmqJ8CiCNgkkBR2w3Xwm/Lesson-(Copy)-(Copy)?type=design&node-id=243-1)
+
 # React homework template
 
 Этот проект был создан при помощи
